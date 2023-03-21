@@ -25,27 +25,23 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://didier.malenfant.net" # the base hostname & protocol for your site, e.g. http://example.com
 
-# -- This is for minima 2.5
-github_username: DidierMalenfant
-email: coding@malenfant.net
-
-# -- This is for minima 3.0
-#author:
-#  name: Didier Malenfant
-#  email: "coding@malenfant.net"
+author:
+  name: Didier Malenfant
+  email: "coding@malenfant.net"
 
 # Build settings
-theme: minima
-
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
 
-# -- This is for minima 3.0
+# set up remote_theme
+remote_theme: jekyll/minima
+
 minima:
   social_links:
     - { platform: github,  user_url: "https://github.com/DidierMalenfant" }
     - { platform: mastodon, user_url: "https://mastodon.gamedev.place/@didier" }
-  skin: auto
+  skin: dark
 
 header_pages:
   - pages/1 - about.md
