@@ -3,6 +3,7 @@ layout: post
 title: 👾 Simulating Hardware
 categories: blog projectfreedom update
 ---
+
 I'm slightly behind on blogging about the current progress. I'm not working on this full time but progress is already going faster than I expected. Let's catch up...
 
 When I left it last week I had a blank window opened in the simulator. Not much and yet a very important milestone because everything else can build on this while keeping the project in a run-able state at all times.

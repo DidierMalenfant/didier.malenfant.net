@@ -3,6 +3,7 @@ layout: post
 title: 🧸 State of the toyboxpy beta
 categories: blog toyboxpy update
 ---
+
 It's been almost a month since the last update and things have definitely been moving forward at a rapid pace. Let's catch up...
 
 First, I'm happy to announce that [Jeremy McAnally](https://github.com/jm), the original creator of **toybox**, and I have decided to join forces and work together on this project.
