@@ -4,7 +4,7 @@ title: toybox.py
 permalink: /toybox.py/
 ---
 
-<img alt="toyboxpy logo" src="{{ "/assets/img/toybox-449x449.png" | relative_url }}" width="100" height="100"> 
+<img alt="toyboxpy logo" src="{{ "/assets/img/toybox-449x449.png" | relative_url }}" width="150"> 
 
 ### A Lua, C and asset dependency manager for the <a href="https://play.date" target="_blank">Playdate</a> SDK.
 
