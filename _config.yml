@@ -44,7 +44,7 @@ minima:
   skin: dark
 
 header_pages:
-  - pages/1 - about.md
+  - pages/1 - about me.md
   - pages/2 - project freedom.md
   - pages/3 - toyboxpy.md
   

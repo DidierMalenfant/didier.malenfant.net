@@ -1,8 +1,13 @@
 ---
 layout: page
-title: about
-permalink: /about/
+title: about me
+permalink: /aboutme/
 ---
+
+<img alt="my avatat" src="{{ "/assets/img/avatar.jpg" | relative_url }}" width="200"> 
+<br>
+<br>
+
 
 💾 Doctor Soft, Kent Team, Red Sector Inc, Aces.
 
