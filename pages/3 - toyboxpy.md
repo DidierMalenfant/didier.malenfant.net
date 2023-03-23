@@ -6,6 +6,11 @@ permalink: /toybox.py/
 
 <img alt="toyboxpy logo" src="{{ "/assets/img/toybox-449x449.png" | relative_url }}" width="150"> 
 
+<a href="https://spdx.org/licenses/MIT.html" target="_blank"><img alt="license badge" src="https://img.shields.io/github/license/toyboxpy/toybox.py"></a>
+<a href="https://python.org" target="_blank"><img alt="Python version badge" src="https://img.shields.io/pypi/pyversions/toyboxpy.svg"></a>
+<a href="https://pypi.org/project/toyboxpy" target="_blank"><img alt="latest PyPI version badge" src="https://img.shields.io/pypi/v/toyboxpy.svg"></a>
+<a href="https://github.com/toyboxpy/toybox.py/actions/workflows/python-package.yml"><img alt="unit test badge" src="https://github.com/toyboxpy/toybox.py/actions/workflows/python-package.yml/badge.svg"></a>
+
 ### A Lua, C and asset dependency manager for the <a href="https://play.date" target="_blank">Playdate</a> SDK.
 
 #### What is it?
