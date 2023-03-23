@@ -49,4 +49,4 @@ You can even <a href="https://github.com/toyboxpy/toybox.py#creating-your-own-to
 
 #### Where can I get the latest updates?
 
-Head over to the [main page](https://didier.malenfant.net) and look for posts with the 🧸 icon.
+Head over to the [main page](/) and look for posts with the 🧸 icon.
