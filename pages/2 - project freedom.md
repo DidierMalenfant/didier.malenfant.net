@@ -11,4 +11,6 @@ permalink: /ProjectFreedom/
 
 #### What is it?
 
-Project Freedom's **pfx1** is a fantasy console, much like [pico8](https://www.lexaloffle.com/pico-8.php), [tic-80](https://tic80.com) or [arduboy](https://www.arduboy.com), but for the Analog Pocket [OpenFPGA](https://www.analogue.co/developer) platform. There isn't much to see here yet but the main purpose of this site is to host a [blog](/blog/) so that the journey can be documented.   
+Project Freedom's **pfx1** is a fantasy console, much like [pico8](https://www.lexaloffle.com/pico-8.php), [tic-80](https://tic80.com) or [arduboy](https://www.arduboy.com), but for the Analog Pocket [OpenFPGA](https://www.analogue.co/developer) platform. There isn't much to see here yet but the main purpose of this site is to host a blob so that the journey can be documented.
+
+Head over to the [main page](https://didier.malenfant.net) and look for posts with the 👾 icon.
