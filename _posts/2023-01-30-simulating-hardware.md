@@ -71,6 +71,6 @@ This simply sets a color, clears the screen, waits for the next **Vsync** and fl
 </div>
 <br>
 
-If you want to follow along, the repo for **pfSimulator** can be found [here](https://github.com/ProjectFreedomGaming/pfSimulator). This week's progress is at commit [744f636e](https://github.com/ProjectFreedomGaming/pfSimulator/commit/744f636ea34f514d207240e4d5f0e728cd9b48bc).
+If you want to follow along, the repo for **pfSimulator** can be found [here](https://github.com/DidierMalenfant/pfSimulator). This week's progress is at commit [744f636e](https://github.com/DidierMalenfant/pfSimulator/commit/744f636ea34f514d207240e4d5f0e728cd9b48bc).
 
 With ❤️ from Paris, France.
