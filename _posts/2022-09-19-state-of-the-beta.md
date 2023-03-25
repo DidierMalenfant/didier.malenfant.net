@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 🧸 State of the toyboxpy beta
-categories: blog toyboxpy update
+categories: blog toyboxpy
 ---
 
 It's been almost a month since the last update and things have definitely been moving forward at a rapid pace. Let's catch up...

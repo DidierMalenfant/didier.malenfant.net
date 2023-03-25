@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 👾 Welcome to Project Freedom!
-categories: blog projectfreedom update
+categories: blog projectfreedom
 ---
 
 I know, the name may sound a tad pompous but it's really just an hommage to old school codenames like, for example, Nintendo's [**Project Reality**](https://en.wikipedia.org/wiki/Nintendo_64). I just remember how cool it was back then to start reading about many of these misterious projects that were supposed to revolutionize everything. [Peter Molyneux](https://en.wikipedia.org/wiki/Peter_Molyneux) was also pretty good with his project codenames.

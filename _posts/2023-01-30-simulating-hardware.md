@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 👾 Simulating Hardware
-categories: blog projectfreedom update
+categories: blog projectfreedom
 ---
 
 I'm slightly behind on blogging about the current progress. I'm not working on this full time but progress is already going faster than I expected. Let's catch up...

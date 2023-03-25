@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 👾 Hello, World!
-categories: blog projectfreedom update
+categories: blog projectfreedom
 ---
 
 I'm long overdue for an update and as you can imagine, a lot has happened since the last time we talked.

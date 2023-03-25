@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 👾 Tracing bullets
-categories: blog projectfreedom update
+categories: blog projectfreedom
 ---
 
 I'll try my best to do weekly updates. I know how these things go, but I'm going to try. Updates may not be at the beginning of the week all the time though.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 🧸 Introducing toybox.py
-categories: blog toyboxpy update
+categories: blog toyboxpy
 ---
 
 **toybox.py** is a python version of <a href="https://github.com/jm/toybox" target="_blank">**toybox**</a>, originally created by  by <a href="https://github.com/jm" target="_blank">Jeremy McAnally</a>. Jeremy's project was written in **Go** and I really wanted to tweak a few things and experiment a bit with it but since I know nothing about **Go**, I decided to do a clean-room implementation of the same idea in **Python**. And so here we are :)
