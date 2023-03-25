@@ -4,7 +4,7 @@ title: 🤓 Installing Python
 categories: blog nerdy
 ---
 
-**toybox.py** requires at least [**Python**](https://python.org){:target="_blank"} 3.7 and you also need access to [**pip**](https://pypi.org/project/pip/){:target="_blank"}, the **Python** package manager. You can check which version you currently have, if any, with:
+Most of my python scripts requires at least [**Python**](https://python.org){:target="_blank"} 3.7 and some also need access to [**pip**](https://pypi.org/project/pip/){:target="_blank"}, the **Python** package manager in order to install dependencies. You can check which version you currently have, if any, with:
 
 {%- highlight bash -%}
 python --version
