@@ -18,4 +18,4 @@ Project Freedom's **pfx1** is a fantasy console, much like [pico8](https://www.l
 
 #### Where can I get the latest updates?
 
-Head over to the [main page](/) and look for posts with the 👾 icon.
+You can find the project's repos for the [SDK](https://github.com/DidierMalenfant/pfSDK), the [Core](https://github.com/DidierMalenfant/pfCore) or the [Simulator](https://github.com/DidierMalenfant/pfSimulator) on Github or head over to the [main page](/) and look for posts with the 👾 icon.

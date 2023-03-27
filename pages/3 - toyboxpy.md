@@ -54,4 +54,4 @@ You can even <a href="https://github.com/DidierMalenfant/toybox.py#creating-your
 
 #### Where can I get the latest updates?
 
-Head over to the [main page](/) and look for posts with the 🧸 icon.
+You can find the project's repo on [Github](https://github.com/DidierMalenfant/toybox.py) or head over to the [main page](/) and look for posts with the 🧸 icon.
