@@ -4,7 +4,7 @@ title: project freedom
 permalink: /ProjectFreedom/
 ---
 
-<img alt="project freedom logo" src="{{ "/assets/img/project-freedom-logo.jpg" | relative_url }}" width="100"> 
+<img alt="project freedom logo" src="{{ "/assets/img/project-freedom-logo.png" | relative_url }}" width="100"> 
 <img alt="project freedom name" src="{{ "/assets/img/project-freedom-name.png" | relative_url }}" width="400"> 
 
 <a href="https://spdx.org/licenses/GPL-3.0-or-later.html" target="_blank"><img alt="license badge" src="https://img.shields.io/badge/license-GPLv3.0-orange"></a>
