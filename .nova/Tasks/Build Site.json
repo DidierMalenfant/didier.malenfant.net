@@ -2,11 +2,11 @@
   "actions" : {
     "build" : {
       "enabled" : true,
-      "script" : "bundle exec jekyll build"
+      "script" : "bundle exec jekyll build --incremental"
     },
     "run" : {
       "enabled" : true,
-      "script" : "bundle exec jekyll serve"
+      "script" : "bundle exec jekyll serve --incremental"
     }
   },
   "openLogOnRun" : "start"
