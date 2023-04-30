@@ -151,6 +151,6 @@ int main(void)
 
 And guess what?? it **works**! Pretty much does the same thing as last time, changes the screen color, but it does a lot more under the hood to replicate the final hardware.
 
-If you want to follow along, here are the repos for [pfSimulator](https://github.com/DidierMalenfant/pfSimulator) and the [pfSDK](https://github.com/DidierMalenfant/pfSDK). This week's progress is at commits [662605f](https://github.com/DidierMalenfant/pfSimulator/commit/662605fac60aaa3e79d2a70d461a18eab8977a73) and [329e55d](https://github.com/DidierMalenfant/pfSDK/commit/329e55d6cdf0f9b1de66fc1898620e206ead9d05). You can also follow my current [tasklist](https://trello.com/b/ihs3W4ux/%F0%9F%91%BE-project-freedom) on Trello.
+If you want to follow along, here are the repos for [pfSimulator](https://github.com/DidierMalenfant/pfSimulator) and the [pfSDK](https://github.com/DidierMalenfant/pfSDK). This week's progress is at commits [662605f](https://github.com/DidierMalenfant/pfSimulator/commit/662605fac60aaa3e79d2a70d461a18eab8977a73) and [329e55d](https://github.com/DidierMalenfant/pfSDK/commit/329e55d6cdf0f9b1de66fc1898620e206ead9d05).
 
 With ❤️ from Paris, France.
