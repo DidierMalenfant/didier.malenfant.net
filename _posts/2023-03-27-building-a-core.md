@@ -233,6 +233,6 @@ The result is a feast for the eyes:
 
 I have a bit more playing around to do but I'm getting very close to having all the tools I need to put together the first version of the graphics chip, together with color and v-blank registers like the one in **pfSimulator**. I may try to get that working next before embarking on getting the **MC68000** plugged in and bootstrapped on the **Pocket** which is, by all indications right now, going to be a huge undertaking.
 
-If you want to follow along, here are the repos for the [pfCore](https://github.com/DidierMalenfant/pfCore). This week's progress is at commit [83f771b](https://github.com/DidierMalenfant/pfCore/commit/83f771bdd7532502790bcc4c257d480a831a17f3).
+If you want to follow along, here is the repo for [pfCore](https://github.com/DidierMalenfant/pfCore). This week's progress is at commit [83f771b](https://github.com/DidierMalenfant/pfCore/commit/83f771bdd7532502790bcc4c257d480a831a17f3).
 
 With ❤️ from Paris, France.
