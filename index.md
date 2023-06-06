@@ -5,3 +5,7 @@
 title: Latest News
 layout: home
 ---
+
+Welcome to my **blog**.
+
+Posts categories are: 👾 Project Freedom, 🤓 Tutorials, 🧸 toybox.py, 💾 Amiga/Demoscene
