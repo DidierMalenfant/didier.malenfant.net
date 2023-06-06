@@ -15,7 +15,7 @@ permalink: /aboutme/
 
 🎧 Next Audio Labs.
 
-🐘 Admin for [djs.social](https://djs.social) and [for.theloveof.house](https://for.theloveof.house).
+🐘 Admin for [djs.social](https://djs.social).
 
 👾 I'm making [Project Freedom](/ProjectFreedom/) for the [Analog Pocket](https://www.analogue.co/pocket).
 
