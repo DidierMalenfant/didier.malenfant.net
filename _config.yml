@@ -50,6 +50,7 @@ header_pages:
   
 # -- Exclude from processing
 exclude:
+  - .nova/
   - .sass-cache/
   - .jekyll-cache/
   - gemfiles/
