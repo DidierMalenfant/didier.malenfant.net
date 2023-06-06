@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Greetings to
-permalink: /greetings/
+permalink: /greetz/
 ---
 
 ### Demoscene
