@@ -17,7 +17,7 @@ permalink: /aboutme/
 
 👾 I'm making the [pfx-1](/ProjectFreedom/) console for the [Analog Pocket](https://www.analogue.co/pocket).
 
-👨🏻‍🎓 I'm writing [openFPGA Tutorials](https://openfpgatutorial.org).
+👨🏻‍🎓 I'm writing [openFPGA Tutorials](https://openfpgatutorials.org).
 
 🧸 I made [toybox.py](/toybox.py/) for the [Playdate](http://play.date).
 
