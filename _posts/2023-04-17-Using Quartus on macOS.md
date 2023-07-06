@@ -28,7 +28,7 @@ The second part of the magic comes from Apple's **Rosetta**. This is the technol
 All you have to do is make sure that the feature `Use Rosetta for x86/amd64 emulation on Apple Silicon` is enabled in `Settings->Features in development`.
 
 <div style="text-align: center;">
-    <img alt="Analog Pocket Core info screen" src="{{ "/assets/blog/2023-04-17/docker-rosetta-enable.png" | relative_url }}" width="800"> 
+    <img alt="Analogue Pocket Core info screen" src="{{ "/assets/blog/2023-04-17/docker-rosetta-enable.png" | relative_url }}" width="800"> 
 </div>
 <br>
 

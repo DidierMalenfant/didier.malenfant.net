@@ -10,7 +10,7 @@ This by no means implies that this project is surely going to be grandiose or th
 
 So what is **Project Freedom** and how did I get here?
 
-**Project Freedom** is a fantasy console and it will one day run on the [Analog Pocket](https://www.analogue.co/pocket).
+**Project Freedom** is a fantasy console and it will one day run on the [Analogue Pocket](https://www.analogue.co/pocket).
 
 I've spent many years working in the game industry, maybe even worked on [some](https://en.wikipedia.org/wiki/Mr._Nutz) [games](https://en.wikipedia.org/wiki/Wild_9) [you](https://en.wikipedia.org/wiki/Crash_Team_Racing) [may](https://en.wikipedia.org/wiki/Jak_and_Daxter) [know](https://en.wikipedia.org/wiki/Daxter_(video_game)). But then I got burned out and only eventually came back to playing games together with my daughter many years later. I eventually also got back to games programming because of Panic's [Playdate](https://play.date) and thanks to that really enjoyed coding again.
 

@@ -38,7 +38,7 @@ Copying all this in the right spot on the the SD card makes the core show up in 
 
 ### Packaging the core
 
-As I mentioned above, all the files required to build a core for the **Analog Pocket** have a specific directory structure to follow but also a specific format and some required information. Some of that information, like the core name itself, is also used in a naming convention for some of the file. This feels highly error prone, so much so that people apparently already started writing validators for all this to catch potential errors. I was just about to write one such validator when I realized that a better approach was probably to write a core packaging tool which would take care of generating all these files automatically.
+As I mentioned above, all the files required to build a core for the **Analogue Pocket** have a specific directory structure to follow but also a specific format and some required information. Some of that information, like the core name itself, is also used in a naming convention for some of the file. This feels highly error prone, so much so that people apparently already started writing validators for all this to catch potential errors. I was just about to write one such validator when I realized that a better approach was probably to write a core packaging tool which would take care of generating all these files automatically.
 
 This turned into a few tools actually. First, you may notice that the file extension for bitstream file in the core package is `rbf_r`. The reason for this is that the Analogue Pocket doesn't read the `rbf` bitstream files that are generated from the **Verilog** source but instead requires a reversed bitstream file, therefore an `rbf_r` file. So I first wrote a quick `pfReverseBitstream` Python script to make that conversion part of the build process.
 
@@ -54,7 +54,7 @@ image = "assets/pfx1-platform-image.png"
 # The first character of the name may not be an underscore.
 short_name = "pfx1"
 category = "Fantasy"
-description = "An open-source fantasy gaming console for the Analog Pocket."
+description = "An open-source fantasy gaming console for the Analogue Pocket."
 info = "info.txt"
 
 [Build]
@@ -82,7 +82,7 @@ You may notice that one entry uses an environment variable `PF_POCKET_CORE_DEV_D
 After creating some assets for the **pfx-1** core and quickly writing a `pfInstallCore` script which takes a zipped up core and installs all the files in their correct location on an SD card, it was time to give it a whirl:
 
 <div style="text-align: center;">
-    <img alt="Analog Pocket Core info screen" src="{{ "/assets/blog/2023-03-27/CoreInfo.png" | relative_url }}" width="300"> 
+    <img alt="Analogue Pocket Core info screen" src="{{ "/assets/blog/2023-03-27/CoreInfo.png" | relative_url }}" width="300"> 
 </div>
 <br>
 
@@ -105,7 +105,7 @@ At least this is all automated but it is still a little convoluted. I'm hoping t
 It was finally time to try and write some real code and see the results on screen. My first attempt to make sure the whole toolchain worked was to change the color used to draw on the screen in **Analogue**'s template file:
 
 <div style="text-align: center;">
-    <img alt="Analog Pocket displaying an orange screen" src="{{ "/assets/blog/2023-03-27/OrangeScreen.png" | relative_url }}" width="300"> 
+    <img alt="Analogue Pocket displaying an orange screen" src="{{ "/assets/blog/2023-03-27/OrangeScreen.png" | relative_url }}" width="300"> 
 </div>
 <br>
 
@@ -227,7 +227,7 @@ This is not the place for a **Verilog** tutorial but you can see that this indee
 The result is a feast for the eyes:
 
 <div style="text-align: center;">
-    <img alt="Analog Pocket displaying a color test" src="{{ "/assets/blog/2023-03-27/Rainbow.png" | relative_url }}" width="300"> 
+    <img alt="Analogue Pocket displaying a color test" src="{{ "/assets/blog/2023-03-27/Rainbow.png" | relative_url }}" width="300"> 
 </div>
 <br>
 

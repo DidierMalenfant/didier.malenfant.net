@@ -17,7 +17,7 @@ permalink: /aboutme/
 
 🎧 Next Audio Labs.
 
-👾 I'm making the [pfx-1](/ProjectFreedom/) console for the [Analog Pocket](https://www.analogue.co/pocket).
+👾 I'm making the [pfx-1](/ProjectFreedom/) console for the [Analogue Pocket](https://www.analogue.co/pocket).
 
 👨🏻‍🎓 I'm writing [openFPGA Tutorials](https://openfpgatutorials.org).
 

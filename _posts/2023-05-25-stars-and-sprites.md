@@ -7,7 +7,7 @@ categories: blog projectfreedom
 It's been a minute since the last update on **Project Freedom**. I usually end each post with some screenshot showing the current state of the project but this time I'll open with it instead because...well...it just looks so pretty:
 
 <div style="text-align: center;">
-    <img alt="Analog Pocket showing a starfield and some sprites spelling pfx-1" src="{{ "/assets/blog/2023-05-25/starsnsprites.mov" | relative_url }}" width="300"> 
+    <img alt="Analogue Pocket showing a starfield and some sprites spelling pfx-1" src="{{ "/assets/blog/2023-05-25/starsnsprites.mov" | relative_url }}" width="300"> 
 </div>
 <br>
 
