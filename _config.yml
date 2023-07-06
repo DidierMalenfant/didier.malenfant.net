@@ -26,8 +26,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://didier.malenfant.net" # the base hostname & protocol for your site, e.g. http://example.com
 
 author:
-  name: Didier Malenfant
-  email: "coding@malenfant.net"
+  name: by Didier Malenfant
 
 # -- Build settings
 plugins:

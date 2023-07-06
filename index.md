@@ -2,10 +2,10 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-title: Latest News
+title: Welcome to my blog...
 layout: home
 ---
 
-Welcome to my **blog**.
+## Latest News
 
 Posts categories are: 👾 Project Freedom, 🤓 Tutorials, 🧸 toybox.py, 💾 Amiga/Demoscene
